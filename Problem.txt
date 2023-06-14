@@ -1,0 +1,2 @@
+FT Distinct Values Problem
+Give an array of integers find the unique values, sort ascending order and write those values to the dom
